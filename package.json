@@ -1,5 +1,10 @@
 { 
-	"dependencies" : {
+	"dependencies" : 
+	{
 		"firebase": "latest"
+	},
+	"scripts" 
+	{
+		"start" : "node index.js"
 	}
 }
